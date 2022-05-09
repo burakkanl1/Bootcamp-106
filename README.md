@@ -35,6 +35,11 @@ korkusuzca atılacaktır.
   ![Trelloo](https://user-images.githubusercontent.com/58599484/167489306-53c63f3d-ec76-461e-964b-63b6bac9de2b.png)
 	BA:Beyzanur Akkuzu
 	BK:Burak Kanlı
+	
+Sprint board screenshot:
+![sprintpoint](https://user-images.githubusercontent.com/58599484/167497478-ae798135-2b39-4c58-bbc8-90cbc43bdf5d.png)
+
+	Excel ile oluşturuldu.
   
   Ürün Görseli:
   ![cave](https://user-images.githubusercontent.com/58599484/167376280-f0ddfdc1-e6d7-4ebc-a3b0-bf48dc0fd63f.png)
