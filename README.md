@@ -32,7 +32,9 @@ korkusuzca atılacaktır.
   Backlog URL:
   https://trello.com/b/5H5REuSg/bootcamp
   
-  ![trello2](https://user-images.githubusercontent.com/58599484/167376193-d2c31eb8-2217-4c2c-bf43-1fc250d200c2.png)
+  ![Trelloo](https://user-images.githubusercontent.com/58599484/167489306-53c63f3d-ec76-461e-964b-63b6bac9de2b.png)
+	BA:Beyzanur Akkuzu
+	BK:Burak Kanlı
   
   Ürün Görseli:
   ![cave](https://user-images.githubusercontent.com/58599484/167376280-f0ddfdc1-e6d7-4ebc-a3b0-bf48dc0fd63f.png)
