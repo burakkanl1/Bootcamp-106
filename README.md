@@ -1,26 +1,27 @@
 # Bootcamp-106
-Takım ismi: Bootcamp-106
+### Takım ismi: Bootcamp-106
 
-Oyun ismi: Heder
+### Oyun ismi: HEDER
 
-Takım elemanları: 
-     Proje Yöneticisi:Beyzanur Akkuzu
+#### Takım elemanları: 
+     Proje Yöneticisi:Beyzanur AKKUZU
      Scrum Master: Burak KANLI
-     Developer: Dehan Kılınçaslan, Beyzanur Akkuzu, Burak KANLI
+     Developer: Dehan KILINÇASLAN, Beyzanur AKKUZU, Burak KANLI
 
-Oyun Açıklaması: X gezegeninde yaşayan Heder, tükenen kaynakların gezegeninin sonunu getireceği endişesiyle 
+### Oyun Açıklaması:
+X gezegeninde yaşayan Heder, tükenen kaynakların gezegeninin sonunu getireceği endişesiyle 
 araştırmalar yapmaktadır. Y maddesinin tükenmesi, gezegenin güç kaynaklarını tamamen bitirecek ve yaşamsal
 ihtiyaçları karşılanamayarak gezegeni yok olacaktır. Gezegenini kurtarmak için yola çıkan kahramanımız, dünya
 gezegeninde y maddesi olduğunu öğrenir ve rotayı bu gezegene çevirir. Yer altında bir mağarada özenle saklanan
 y maddesini ele geçirmek zorlu ve tehlikeli olacak ama gezegenin kurtuluşu için tek yol olduğundan Heder bu maceraya
 korkusuzca atılacaktır.
 
-Oyun Özellikleri: 
+### Oyun Özellikleri: 
 	Ödül toplama
 	Toplanan ödüllerle yeni kapılar açarak çıkışa ulaşma
 	Farkedilme durumunda hızlanma
 	
-Hedef Kitle:
+#### Hedef Kitle:
 	Oyun oynamayı sevenler
 	Karanlık tema sevenler
 	Hikayeli oyun sevenler
