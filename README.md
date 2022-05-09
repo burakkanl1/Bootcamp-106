@@ -9,15 +9,16 @@
      Developer: Dehan KILINÇASLAN, Beyzanur AKKUZU, Burak KANLI
 
 ### Oyun Açıklaması:
-X gezegeninde yaşayan Heder, tükenen kaynakların gezegeninin sonunu getireceği endişesiyle 
-araştırmalar yapmaktadır. Y maddesinin tükenmesi, gezegenin güç kaynaklarını tamamen bitirecek ve yaşamsal
+Endor gezegeninde yaşayan Heder, tükenen kaynakların gezegeninin sonunu getireceği endişesiyle 
+araştırmalar yapmaktadır. Titan arum maddesinin tükenmesi, gezegenin güç kaynaklarını tamamen bitirecek ve yaşamsal
 ihtiyaçları karşılanamayarak gezegeni yok olacaktır. Gezegenini kurtarmak için yola çıkan kahramanımız, dünya
-gezegeninde y maddesi olduğunu öğrenir ve rotayı bu gezegene çevirir. Yer altında bir mağarada özenle saklanan
-y maddesini ele geçirmek zorlu ve tehlikeli olacak ama gezegenin kurtuluşu için tek yol olduğundan Heder bu maceraya
+gezegeninde titan arum maddesi olduğunu öğrenir ve rotayı bu gezegene çevirir. Yer altında bir mağarada özenle saklanan
+titan arum maddesini ele geçirmek zorlu ve tehlikeli olacak ama gezegenin kurtuluşu için tek yol olduğundan Heder bu maceraya
 korkusuzca atılacaktır.
 
 ### Oyun Özellikleri: 
 	Ödül toplama
+	Giriş Animasyonu 
 	Toplanan ödüllerle yeni kapılar açarak çıkışa ulaşma
 	Farkedilme durumunda hızlanma
 	
