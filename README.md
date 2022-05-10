@@ -37,9 +37,16 @@ korkusuzca atılacaktır.
 	BK:Burak Kanlı
 	
 Sprint board screenshot:
-![sprintpoint](https://user-images.githubusercontent.com/58599484/167497478-ae798135-2b39-4c58-bbc8-90cbc43bdf5d.png)
+![sprintp](https://user-images.githubusercontent.com/58599484/167713618-ca84a0ad-6563-43bb-a6e1-09532a9cfd55.png)
+	
+	
+	Total Point:360
+	Sprint içinde tamamlanması tahmin edilen:120
+	Story Point:40
 
 	Excel ile oluşturuldu.
+  DailyScrum screenshot:
+  https://drive.google.com/drive/folders/1tkqWenxXPwJWJl5oO5wNE_1OcIrRo_hJ
   
   Ürün Görseli:
   ![cave](https://user-images.githubusercontent.com/58599484/167376280-f0ddfdc1-e6d7-4ebc-a3b0-bf48dc0fd63f.png)
