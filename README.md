@@ -63,16 +63,16 @@ Sprint board screenshot:
   
   ## SPRİNT 2
   
-  Sprint board screenshot:
+  ### Sprint board screenshot:
   ![Opera Anlık Görüntü_2022-05-22_210407_trello com](https://user-images.githubusercontent.com/58599484/169709357-c9a1376a-fee6-4bca-a779-b6c9cae72d03.png)
   
   Açıklamalar eklendi.
   
-  DailyScrum screenshot:
+  ### DailyScrum screenshot:
   
   https://drive.google.com/drive/folders/1OQMMEcdjaws4ybvdOrs18-VK8Y05MN2T?usp=sharing
   
-  Ürün Görseli:
+ ### Ürün Görseli:
   ![SS1](https://user-images.githubusercontent.com/58599484/169709614-315da54e-6d20-4d08-88b5-e59a17700fe4.png)
   ![SS2](https://user-images.githubusercontent.com/58599484/169709639-6204f528-229d-469b-ba18-ed10253f3bbb.png)
   ![SS3](https://user-images.githubusercontent.com/58599484/169709647-66bde8b8-222d-4e04-8730-32a8b4a673a8.png)
@@ -81,9 +81,3 @@ Sprint board screenshot:
   Sprint rewiev: Engeller eklenmesine ve çeşitlendirilmesine karar verildi. Şifreleme eklenmesi üzerinde çalışılıyor. Ekstra eklenebilecek özellikler üzerinde konuşuldu.
   
   Sprint retrospective: Projeye ayrılan vaktin çoğaltılması üzerinde tekrar duruldu. Görev dağılımı ve planlamanın düzenlenmesi ve uyum sağlanması gerektiği üzerinde konuşarak bir planlama üzerinde anlaşıldı.
-
-
-
-  
-  
-
