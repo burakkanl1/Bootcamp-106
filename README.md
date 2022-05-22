@@ -61,7 +61,7 @@ Sprint board screenshot:
   Proje için ayırılan vakit çoğaltılmalı.
   
   
-  ##SPRİNT 2
+  ## SPRİNT 2
   
   Sprint board screenshot:
   ![Opera Anlık Görüntü_2022-05-22_210407_trello com](https://user-images.githubusercontent.com/58599484/169709357-c9a1376a-fee6-4bca-a779-b6c9cae72d03.png)
