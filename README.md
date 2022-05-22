@@ -73,10 +73,14 @@ Sprint board screenshot:
   https://drive.google.com/drive/folders/1OQMMEcdjaws4ybvdOrs18-VK8Y05MN2T?usp=sharing
   
  ### Ürün Görseli:
-  ![SS1](https://user-images.githubusercontent.com/58599484/169709614-315da54e-6d20-4d08-88b5-e59a17700fe4.png)
+  ![SS1](https://user-images.githubusercontent.com/58599484/169709614-315da54e-6d20-4d08-88b5-e59a17700fe4.png) 
+  
   ![SS2](https://user-images.githubusercontent.com/58599484/169709639-6204f528-229d-469b-ba18-ed10253f3bbb.png)
+  
   ![SS3](https://user-images.githubusercontent.com/58599484/169709647-66bde8b8-222d-4e04-8730-32a8b4a673a8.png)
   
+  ![giriş](https://user-images.githubusercontent.com/61544442/169712219-845dce02-e3c9-4353-b8c1-c883d13866db.png)
+
   
   Sprint rewiev: Engeller eklenmesine ve çeşitlendirilmesine karar verildi. Şifreleme eklenmesi üzerinde çalışılıyor. Ekstra eklenebilecek özellikler üzerinde konuşuldu.
   
