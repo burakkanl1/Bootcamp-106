@@ -72,7 +72,6 @@ Sprint board screenshot:
   
   Sprint içinde tamamlanması tahmin edilen:120
   
-  Story Point:40
   
   ### DailyScrum screenshot:
   
