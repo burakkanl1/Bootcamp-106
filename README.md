@@ -68,6 +68,12 @@ Sprint board screenshot:
   
   Açıklamalar eklendi.
   
+  Total Point:360
+  
+  Sprint içinde tamamlanması tahmin edilen:120
+  
+  Story Point:40
+  
   ### DailyScrum screenshot:
   
   https://drive.google.com/drive/folders/1OQMMEcdjaws4ybvdOrs18-VK8Y05MN2T?usp=sharing
