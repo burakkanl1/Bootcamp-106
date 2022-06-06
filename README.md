@@ -61,7 +61,7 @@ Sprint board screenshot:
   Proje için ayırılan vakit çoğaltılmalı.
   
   
-  ## SPRİNT 2
+  ## SPRINT 2
   
   ### Sprint board screenshot:
   ![Opera Anlık Görüntü_2022-05-22_210407_trello com](https://user-images.githubusercontent.com/58599484/169709357-c9a1376a-fee6-4bca-a779-b6c9cae72d03.png)
@@ -91,3 +91,16 @@ Sprint board screenshot:
   Sprint rewiev: Engeller eklenmesine ve çeşitlendirilmesine karar verildi. Şifreleme eklenmesi üzerinde çalışılıyor. Ekstra eklenebilecek özellikler üzerinde konuşuldu.
   
   Sprint retrospective: Projeye ayrılan vaktin çoğaltılması üzerinde tekrar duruldu. Görev dağılımı ve planlamanın düzenlenmesi ve uyum sağlanması gerektiği üzerinde konuşarak bir planlama üzerinde anlaşıldı.
+  
+  ## SPRINT 3
+
+### Sprint board screenshot:
+
+Oyun geliştirildi, haritalar eklendi scene geçişleri sağlandı. Giriş, oyun ve bitiş sayfaları tasarlandı. Engel ve toplanacak materyaller eklendi. 
+  
+  Total Point:360
+  
+  Sprint içinde tamamlanması tahmin edilen:120
+  
+   ### DailyScrum screenshot:
+   
