@@ -92,6 +92,9 @@ Sprint board screenshot:
 
 ### Sprint board screenshot:
 
+![WhatsApp Image 2022-06-06 at 23 26 46](https://user-images.githubusercontent.com/58599484/172243039-476d1abe-ce6e-4083-a08e-114be24af98b.jpeg)
+
+
 Oyun geliştirildi, haritalar eklendi scene geçişleri sağlandı. Giriş, oyun ve bitiş sayfaları tasarlandı. Engel ve toplanacak materyaller eklendi. 
   
   Total Point:360
@@ -100,3 +103,15 @@ Oyun geliştirildi, haritalar eklendi scene geçişleri sağlandı. Giriş, oyun
   
    ### DailyScrum screenshot:
    
+   https://drive.google.com/drive/folders/15wVArXSaFrzcBtl7ASuvMfaXh1F3V9DC?usp=sharing
+   
+   ### Ürün Görseli:
+   
+   ![UrunGörseli1](https://user-images.githubusercontent.com/58599484/172242786-835dfc01-cd49-4923-ba35-41ccdd309987.png)
+   
+   ![UrunGörseli2](https://user-images.githubusercontent.com/58599484/172242839-79d97f98-5729-4f57-a6d3-ee6b834b8b2b.png)
+   
+   ![UrunGörseli3](https://user-images.githubusercontent.com/58599484/172242892-046a3f26-fe96-4c1d-8f91-4635fff61cb4.png)
+
+   
+
