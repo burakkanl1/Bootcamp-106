@@ -9,12 +9,8 @@
      Developer: Beyzanur AKKUZU, Burak KANLI
 
 ### Oyun Açıklaması:
-Endor gezegeninde yaşayan Heder, tükenen kaynakların gezegeninin sonunu getireceği endişesiyle 
-araştırmalar yapmaktadır. Titan arum maddesinin tükenmesi, gezegenin güç kaynaklarını tamamen bitirecek ve yaşamsal
-ihtiyaçları karşılanamayarak gezegeni yok olacaktır. Gezegenini kurtarmak için yola çıkan kahramanımız, dünya
-gezegeninde titan arum maddesi olduğunu öğrenir ve rotayı bu gezegene çevirir. Yer altında bir mağarada özenle saklanan
-titan arum maddesini ele geçirmek zorlu ve tehlikeli olacak ama gezegenin kurtuluşu için tek yol olduğundan Heder bu maceraya
-korkusuzca atılacaktır.
+Endor gezeninin kralı olan Heder; heybetli, güçlü, zengin ve kudretli bir kraldır.Bir gün vezirinin kendisine özel olarak hazırlattığı, Titan Arum adında bir içeceği 
+içer ve uzun bir uykuya dalar. Veziri herkese kralın dinlenmekte olduğunu ve yerine kendisinin yöneteceğini söyleyerek tüm yetkiyi ele alır. Gücü eline alan vezirin asıl amacı ülkeyi yönetmek değil, zenginliğe konup ortadan kaybolmaktır ve kral uyanana kadar elini çabuk tutması gerekiyordur.Kralımız Heder uyanır ve çulsuz kalmış bir vaziyette yollara düşer. Gece gündüz demeden topladığı yakutlarla eski zenginliğine, heybetine kavuşmak ve tekrar tacı ele geçirmek arzusundadır...
 
 ### Oyun Özellikleri: 
 	Ödül toplama
